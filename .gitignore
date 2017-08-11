@@ -17,6 +17,11 @@ DerivedData/
 !default.perspectivev3
 xcuserdata/
 
+*.xccheckout
+UserInterfaceState.xcuserstate
+contents.xcworkspacedata
+build/
+
 ## Other
 *.moved-aside
 *.xccheckout
