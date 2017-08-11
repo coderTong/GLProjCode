@@ -1,0 +1,16 @@
+PODS:
+  - GLSDKCode (1.x.x-local)
+
+DEPENDENCIES:
+  - GLSDKCode (from `/Users/codew/Desktop/MyProj/GLSDKCode`)
+
+EXTERNAL SOURCES:
+  GLSDKCode:
+    :path: "/Users/codew/Desktop/MyProj/GLSDKCode"
+
+SPEC CHECKSUMS:
+  GLSDKCode: 33ad18750fd6b2bfad4ad16771793652ff79626f
+
+PODFILE CHECKSUM: 23f9719206cf6e7256704838145f5e3cb19e460c
+
+COCOAPODS: 1.2.1
