@@ -16,6 +16,7 @@
 		ACBEF5851F3DEBB200376051 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ACBEF5831F3DEBB200376051 /* LaunchScreen.storyboard */; };
 		ACBEF5901F3DEBB200376051 /* GLProjCodeTests.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBEF58F1F3DEBB200376051 /* GLProjCodeTests.m */; };
 		ACBEF59B1F3DEBB200376051 /* GLProjCodeUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = ACBEF59A1F3DEBB200376051 /* GLProjCodeUITests.m */; };
+		ACBEF5D01F3F61AC00376051 /* allTheWay.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ACBEF5CF1F3F61AC00376051 /* allTheWay.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +53,7 @@
 		ACBEF5961F3DEBB200376051 /* GLProjCodeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GLProjCodeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		ACBEF59A1F3DEBB200376051 /* GLProjCodeUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = GLProjCodeUITests.m; sourceTree = "<group>"; };
 		ACBEF59C1F3DEBB200376051 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACBEF5CF1F3F61AC00376051 /* allTheWay.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = allTheWay.mp4; sourceTree = "<group>"; };
 		ADC6221BDA38C0FEC0C8BA32 /* Pods-GLProjCode.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GLProjCode.debug.xcconfig"; path = "Pods/Target Support Files/Pods-GLProjCode/Pods-GLProjCode.debug.xcconfig"; sourceTree = "<group>"; };
 		C24500BB469BF04CD68E83A6 /* Pods-GLProjCode.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-GLProjCode.release.xcconfig"; path = "Pods/Target Support Files/Pods-GLProjCode/Pods-GLProjCode.release.xcconfig"; sourceTree = "<group>"; };
 		F8EF32CC99E183D521FB3DD0 /* libPods-GLProjCode.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-GLProjCode.a"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -133,6 +135,7 @@
 				ACBEF5811F3DEBB200376051 /* Assets.xcassets */,
 				ACBEF5831F3DEBB200376051 /* LaunchScreen.storyboard */,
 				ACBEF5861F3DEBB200376051 /* Info.plist */,
+				ACBEF5CF1F3F61AC00376051 /* allTheWay.mp4 */,
 				ACBEF5751F3DEBB200376051 /* Supporting Files */,
 			);
 			path = GLProjCode;
@@ -279,6 +282,7 @@
 				ACBEF5851F3DEBB200376051 /* LaunchScreen.storyboard in Resources */,
 				ACBEF5821F3DEBB200376051 /* Assets.xcassets in Resources */,
 				ACBEF5801F3DEBB200376051 /* Main.storyboard in Resources */,
+				ACBEF5D01F3F61AC00376051 /* allTheWay.mp4 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -507,6 +511,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = UCS53FT3U9;
 				INFOPLIST_FILE = GLProjCode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.netviewtech.GLProjCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -520,6 +525,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = UCS53FT3U9;
 				INFOPLIST_FILE = GLProjCode/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = com.netviewtech.GLProjCode;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -595,6 +601,7 @@
 				ACBEF5A11F3DEBB200376051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ACBEF5A21F3DEBB200376051 /* Build configuration list for PBXNativeTarget "GLProjCodeTests" */ = {
 			isa = XCConfigurationList;
@@ -603,6 +610,7 @@
 				ACBEF5A41F3DEBB200376051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		ACBEF5A51F3DEBB200376051 /* Build configuration list for PBXNativeTarget "GLProjCodeUITests" */ = {
 			isa = XCConfigurationList;
@@ -611,6 +619,7 @@
 				ACBEF5A71F3DEBB200376051 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

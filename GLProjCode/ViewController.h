@@ -7,8 +7,11 @@
 //
 
 #import <UIKit/UIKit.h>
+#import <GLSDKCode.h>
+
 
 @interface ViewController : UIViewController
+
 
 
 @end
