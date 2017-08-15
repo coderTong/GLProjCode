@@ -5,7 +5,7 @@ source 'https://github.com/CocoaPods/Specs.git'
 
 target 'GLProjCode' do
 
-	pod 'GLSDKCode', :path => '/Users/codew/Desktop/MyProj/GLSDKCode'
+	pod 'GLSDKCode', :path => './../GLSDKCode'
 
 
 end
